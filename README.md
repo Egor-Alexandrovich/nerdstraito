@@ -1,3 +1,1 @@
-# nerdstraito
-# h1 #
-## h2 ##
+https://egor-alexandrovich.github.io/nerdstraito/
